@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SmartComplySDK",
-            url: "https://adhere-prod.s3.us-west-2.amazonaws.com/sdk-releases/ios/1.6.0/SmartComplySDK.xcframework.zip",
-            checksum: "41094503f58c2f39c94d8dd0fb07b252432d2ef48de5ace3170105b83a90f5a1"
+            url: "https://adhere-prod.s3.us-west-2.amazonaws.com/sdk-releases/ios/1.6.1/SmartComplySDK.xcframework.zip",
+            checksum: "cd1f823a10ff4fa9c293903cbcfd035f4b488881e094b32e5407f62c09f2bcfd"
         )
     ]
 )
